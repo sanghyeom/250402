@@ -1,0 +1,11 @@
+A=[[1,2,3],[4,5,6],[7,8,9]]
+
+for row in A : 
+    for a in row: 
+        print(a, end='')
+    print()
+
+# for i in range(3) :
+#     for j in range(3) : 
+#         print(A[i][j],end=' ')
+#     print()
